@@ -16,3 +16,5 @@ conda activate mdeicalbot
 '''bash
 pip install -r requirements.txt
 '''
+
+### Step 03- Add the knowledge base(All the books you want your LLM to look into, inside data folder of project Directory)
